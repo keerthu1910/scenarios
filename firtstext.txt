@@ -8,3 +8,7 @@ line 33
 line444
 line 55555
 line direct commit
+
+work fix 1
+bug fix 
+line to rebase conflict in local

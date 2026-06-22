@@ -12,3 +12,11 @@ line direct commit
 work fix 1
 bug fix 
 line to rebase conflict in local
+add feature 1
+add feature 2
+add feature 3
+add feature 4
+add feature 5
+bug fix1
+bug actualllllllll!
+bug fix 2

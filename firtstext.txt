@@ -11,3 +11,4 @@ line direct commit
 
 work fix 1
 bug fix 
+line to rebase conflict in local
